@@ -1,8 +1,10 @@
-# Quotes
+# Amazing quotes
+---
 
 ## Author
+Natasha
 
-you will write something here
+---
 
 ## Description
 
