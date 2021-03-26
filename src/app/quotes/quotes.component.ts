@@ -7,7 +7,7 @@ import { Quote } from '../quote';
   styleUrls: ['./quotes.component.css']
 })
 export class QuotesComponent implements OnInit {
-  title = 'welcome to tashas quotes';
+  title = 'welcome to amazing quotes';
   quotes:Quote[] = [
     new Quote (1,'Natasha','Rise Up','The greatest glory in living lies not in never falling, but in rising every time we fall.','Nelson Mandela', new Date(2021,1,12),0,0),
 
