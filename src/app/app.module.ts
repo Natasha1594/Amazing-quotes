@@ -9,7 +9,6 @@ import { QuoteDetailsComponent } from './quote-details/quote-details.component';
 import { DatePipePipe } from './date-pipe.pipe';
 import { QuotesFormComponent } from './quotes-form/quotes-form.component';
 import { HighlightQouteDirective } from './highlight-qoute.directive';
-import { ContactSectionComponent } from './contact-section/contact-section.component';
 
 
 @NgModule({
@@ -20,7 +19,6 @@ import { ContactSectionComponent } from './contact-section/contact-section.compo
     DatePipePipe,
     QuotesFormComponent,
     HighlightQouteDirective,
-    ContactSectionComponent
   ],
   imports: [
     BrowserModule,
